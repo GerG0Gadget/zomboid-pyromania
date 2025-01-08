@@ -1,4 +1,4 @@
 UI_HU = {
 	UI_trait_pyromaniac = "Pyromaniac",
-	UI_trait_pyromaniacdesc = "Increase stress when not lighting fires.",
+	UI_trait_pyromaniacdesc = "Stresszelsz, amikor nem gyújtogatsz.",
 }
